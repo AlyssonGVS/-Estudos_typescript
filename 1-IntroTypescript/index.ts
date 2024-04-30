@@ -8,3 +8,4 @@ function greating(name) {
 }
 
 greating(firstName)
+console.log('asda');
